@@ -1,0 +1,23 @@
+name: sundrypictures
+favicon: null
+layout_spectrum: 0.5709119969978929
+typography_spectrum: 0.2502981941215694
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.24771276907995343
+  lightness: 0.42653649346902966
+  saturation: 0.22461663000285625
+  rhythmicContrast: 0.5696060683112592
+purpose: []
