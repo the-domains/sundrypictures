@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[sundrypictures]]></title>
         <description><![CDATA[sundrypictures]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sundrypictures/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 Nov 2015 12:33:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 10 Nov 2015 12:36:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sundrypictures/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[local joint]]></title>
+            <description><![CDATA[<article><h1>local joint</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc7be98b-d9cc-48c4-b8ab-3495dfac7187.jpg"></article>]]></description>
+            <link>https://thegrid.ai/sundrypictures/5310cf9b-77b3-4992-a594-c0eab2e03540/index.html</link>
+            <guid isPermaLink="false">5310cf9b-77b3-4992-a594-c0eab2e03540</guid>
+            <pubDate>Tue, 10 Nov 2015 12:36:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[the joint]]></title>
             <description><![CDATA[<article><h1>the joint</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e92e34aa-77f4-4a1c-b409-da5c4330969c.jpg"></article>]]></description>
-            <link>undefined9b79252e-34f0-4e3d-b25d-9fdcd43b30a2/index.html</link>
+            <link>https://thegrid.ai/sundrypictures/9b79252e-34f0-4e3d-b25d-9fdcd43b30a2/index.html</link>
             <guid isPermaLink="false">9b79252e-34f0-4e3d-b25d-9fdcd43b30a2</guid>
             <pubDate>Tue, 10 Nov 2015 12:33:06 GMT</pubDate>
         </item>
